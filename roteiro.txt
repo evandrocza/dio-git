@@ -15,10 +15,30 @@ Para inicializar o Repositório
     - git stash / git stash drop stash@{n}
 
     - git stash pop / git stash list
-
-    - Mostrar como funciona o Github
-
+    
     - git merge 
+
+    - git push origin branch --delete
+
+    - git version
+    
+    - git log
+    
+    - git rm -rf node_modules/ --cached
+    
+    - git remote add origin https://github.com/fulano/meu-repo.git
+    
+    - git config --global core.editor 'code --wait'
+    
+    - git branch -m novo nome
+    
+    - git branch -D nome da branch
+    
+    - git push origin <nome da branch>
+    
+    - git merge --abort
+
+    
 
 
 
