@@ -1,0 +1,25 @@
+Aqui faremos um Repositório de uma aplicação 
+Para inicializar o Repositório
+    - git init: Basicamente pe a inicialização de um Repositório vazio, para que possamos
+    criar nossas interações e subir nossos branchs, repositórios, etc.
+
+    - Git add <nome do arquivo>, com este comando adiciono arquivos 
+    que estão criados no meu workspace para o staging area
+
+    - git commit -m 'mensagem de envio'
+
+    - .gitignore
+
+    - git branch, git checkout, 
+
+    - git stash / git stash drop stash@{n}
+
+    - git stash pop / git stash list
+
+    - Mostrar como funciona o Github
+
+    - git merge 
+
+    
+
+    
