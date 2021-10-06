@@ -1,0 +1,45 @@
+Aqui faremos um Repositório de uma aplicação 
+Para inicializar o Repositório
+    - git init: Basicamente pe a inicialização de um Repositório vazio, para que possamos
+    criar nossas interações e subir nossos branchs, repositórios, etc.
+
+    - Git add <nome do arquivo>, com este comando adiciono arquivos 
+    que estão criados no meu workspace para o staging area
+
+    - git commit -m 'mensagem de envio'
+
+    - .gitignore
+
+    - git branch, git checkout, git branch -D list
+
+    - git stash / git stash drop stash@{n}
+
+    - git stash pop / git stash list
+    
+    - git merge 
+
+    - git push origin branch --delete
+
+    - git version
+    
+    - git log
+    
+    - git rm -rf node_modules/ --cached
+    
+    - git remote add origin https://github.com/fulano/meu-repo.git
+    
+    - git config --global core.editor 'code --wait'
+    
+    - git branch -m novo nome
+    
+    - git branch -D nome da branch
+    
+    - git push origin <nome da branch>
+    
+    - git merge --abort
+
+    
+
+
+
+    
