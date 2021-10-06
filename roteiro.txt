@@ -10,7 +10,7 @@ Para inicializar o Repositório
 
     - .gitignore
 
-    - git branch, git checkout, 
+    - git branch, git checkout, git branch -D list
 
     - git stash / git stash drop stash@{n}
 
@@ -20,6 +20,6 @@ Para inicializar o Repositório
 
     - git merge 
 
-    
+
 
     
