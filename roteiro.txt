@@ -38,6 +38,8 @@ Para inicializar o Repositório
     
     - git merge --abort
 
+
+    That all
     
 
 
